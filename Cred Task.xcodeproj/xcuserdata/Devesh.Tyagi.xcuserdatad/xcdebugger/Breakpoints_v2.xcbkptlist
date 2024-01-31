@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "69ED7508-B8BF-4304-AD41-506C390193CE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B7B9F12-8694-41B5-A087-3F232B24358E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cred Task/CollapsibleStack/Protocol/CollapsibleViewControllerProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "present(viewControllerToPresent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B7B9F12-8694-41B5-A087-3F232B24358E - c2602ff66d167c29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cred_Task.CollapsibleViewControllerProtocol.present(viewControllerToPresent: __C.UIViewController &amp; Cred_Task.CollapsibleViewControllerProtocol) -&gt; Swift.Bool"
+                  moduleName = "Cred Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Devesh.Tyagi/Desktop/Cred%20Task/Cred%20Task/CollapsibleStack/Protocol/CollapsibleViewControllerProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2924">
+               </Location>
+               <Location
+                  uuid = "8B7B9F12-8694-41B5-A087-3F232B24358E - c2602ff66d167c29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cred_Task.CollapsibleViewControllerProtocol.present(viewControllerToPresent: __C.UIViewController &amp; Cred_Task.CollapsibleViewControllerProtocol) -&gt; Swift.Bool"
+                  moduleName = "Cred Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Devesh.Tyagi/Desktop/Cred%20Task/Cred%20Task/CollapsibleStack/Protocol/CollapsibleViewControllerProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "540">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DF203DC-FCA8-4BD4-9464-4248FFF58D9B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cred Task/CollapsibleStack/Protocol/CollapsibleStackRootViewProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getDimViewAlpha()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DF203DC-FCA8-4BD4-9464-4248FFF58D9B - 4c025b0276669b55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cred_Task.CollapsibleStackRootViewProtocol.getDimViewAlpha() -&gt; CoreGraphics.CGFloat"
+                  moduleName = "Cred Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Devesh.Tyagi/Desktop/Cred%20Task/Cred%20Task/CollapsibleStack/Protocol/CollapsibleStackRootViewProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "0DF203DC-FCA8-4BD4-9464-4248FFF58D9B - 4c025b0276669b55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cred_Task.CollapsibleStackRootViewProtocol.getDimViewAlpha() -&gt; CoreGraphics.CGFloat"
+                  moduleName = "Cred Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Devesh.Tyagi/Desktop/Cred%20Task/Cred%20Task/CollapsibleStack/Protocol/CollapsibleStackRootViewProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83C12B4E-839B-4CA9-BB5D-30B6E75FF421"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cred Task/CollapsibleStack/Protocol/CollapsibleStackRootViewProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "countChildCollapsibleView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83C12B4E-839B-4CA9-BB5D-30B6E75FF421 - 7a6b2145e007f04b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cred_Task.CollapsibleStackRootViewProtocol.countChildCollapsibleView() -&gt; Swift.Int"
+                  moduleName = "Cred Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Devesh.Tyagi/Desktop/Cred%20Task/Cred%20Task/CollapsibleStack/Protocol/CollapsibleStackRootViewProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "83C12B4E-839B-4CA9-BB5D-30B6E75FF421 - 7a6b2145e007f04b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cred_Task.CollapsibleStackRootViewProtocol.countChildCollapsibleView() -&gt; Swift.Int"
+                  moduleName = "Cred Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Devesh.Tyagi/Desktop/Cred%20Task/Cred%20Task/CollapsibleStack/Protocol/CollapsibleStackRootViewProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

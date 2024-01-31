@@ -9,21 +9,39 @@
 /* Begin PBXBuildFile section */
 		A12689922B11DFBD0050E4EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12689912B11DFBD0050E4EF /* AppDelegate.swift */; };
 		A12689942B11DFBD0050E4EF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12689932B11DFBD0050E4EF /* SceneDelegate.swift */; };
-		A12689962B11DFBD0050E4EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12689952B11DFBD0050E4EF /* ViewController.swift */; };
-		A12689992B11DFBD0050E4EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A12689972B11DFBD0050E4EF /* Main.storyboard */; };
 		A126899B2B11DFBE0050E4EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A126899A2B11DFBE0050E4EF /* Assets.xcassets */; };
 		A126899E2B11DFBE0050E4EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A126899C2B11DFBE0050E4EF /* LaunchScreen.storyboard */; };
+		A12689AC2B11E1940050E4EF /* CollapsibleStackRootViewProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12689AB2B11E1940050E4EF /* CollapsibleStackRootViewProtocol.swift */; };
+		A12689AE2B11E1B00050E4EF /* CollapsibleStackRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12689AD2B11E1B00050E4EF /* CollapsibleStackRootViewController.swift */; };
+		A12689B02B11E5570050E4EF /* CollapsibleViewControllerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12689AF2B11E5570050E4EF /* CollapsibleViewControllerProtocol.swift */; };
+		A12689B42B11EEEE0050E4EF /* AmountSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12689B22B11EEEE0050E4EF /* AmountSelectionViewController.swift */; };
+		A12689B52B11EEEE0050E4EF /* AmountSelectionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A12689B32B11EEEE0050E4EF /* AmountSelectionViewController.xib */; };
+		A12689B82B1211F40050E4EF /* TopRoundedCornerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12689B72B1211F40050E4EF /* TopRoundedCornerView.swift */; };
+		A12689BA2B1216CE0050E4EF /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12689B92B1216CE0050E4EF /* UIView+Extension.swift */; };
+		A12689BE2B1232DE0050E4EF /* CollapsibleStackUserInputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12689BC2B1232DE0050E4EF /* CollapsibleStackUserInputViewController.swift */; };
+		A12689BF2B1232DE0050E4EF /* CollapsibleStackUserInputViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A12689BD2B1232DE0050E4EF /* CollapsibleStackUserInputViewController.xib */; };
+		A12689C12B12381F0050E4EF /* UIViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12689C02B12381F0050E4EF /* UIViewController+Extension.swift */; };
+		A12689C32B12F8B40050E4EF /* CustomErrors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12689C22B12F8B40050E4EF /* CustomErrors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		A126898E2B11DFBD0050E4EF /* Cred Task.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Cred Task.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A12689912B11DFBD0050E4EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A12689932B11DFBD0050E4EF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		A12689952B11DFBD0050E4EF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		A12689982B11DFBD0050E4EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A126899A2B11DFBE0050E4EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A126899D2B11DFBE0050E4EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A126899F2B11DFBE0050E4EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A12689AB2B11E1940050E4EF /* CollapsibleStackRootViewProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollapsibleStackRootViewProtocol.swift; sourceTree = "<group>"; };
+		A12689AD2B11E1B00050E4EF /* CollapsibleStackRootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollapsibleStackRootViewController.swift; sourceTree = "<group>"; };
+		A12689AF2B11E5570050E4EF /* CollapsibleViewControllerProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollapsibleViewControllerProtocol.swift; sourceTree = "<group>"; };
+		A12689B22B11EEEE0050E4EF /* AmountSelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountSelectionViewController.swift; sourceTree = "<group>"; };
+		A12689B32B11EEEE0050E4EF /* AmountSelectionViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AmountSelectionViewController.xib; sourceTree = "<group>"; };
+		A12689B72B1211F40050E4EF /* TopRoundedCornerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopRoundedCornerView.swift; sourceTree = "<group>"; };
+		A12689B92B1216CE0050E4EF /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		A12689BC2B1232DE0050E4EF /* CollapsibleStackUserInputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollapsibleStackUserInputViewController.swift; sourceTree = "<group>"; };
+		A12689BD2B1232DE0050E4EF /* CollapsibleStackUserInputViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CollapsibleStackUserInputViewController.xib; sourceTree = "<group>"; };
+		A12689C02B12381F0050E4EF /* UIViewController+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extension.swift"; sourceTree = "<group>"; };
+		A12689C22B12F8B40050E4EF /* CustomErrors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomErrors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +74,80 @@
 		A12689902B11DFBD0050E4EF /* Cred Task */ = {
 			isa = PBXGroup;
 			children = (
-				A12689912B11DFBD0050E4EF /* AppDelegate.swift */,
-				A12689932B11DFBD0050E4EF /* SceneDelegate.swift */,
-				A12689952B11DFBD0050E4EF /* ViewController.swift */,
-				A12689972B11DFBD0050E4EF /* Main.storyboard */,
-				A126899A2B11DFBE0050E4EF /* Assets.xcassets */,
-				A126899C2B11DFBE0050E4EF /* LaunchScreen.storyboard */,
 				A126899F2B11DFBE0050E4EF /* Info.plist */,
+				A12689BB2B1232980050E4EF /* CollapsibleStackUserInput */,
+				A12689B62B1211D10050E4EF /* SupportingResources */,
+				A12689B12B11EEDA0050E4EF /* AmountSelection */,
+				A12689A82B11E12A0050E4EF /* CollapsibleStack */,
+				A12689A52B11E0690050E4EF /* AppFiles */,
 			);
 			path = "Cred Task";
+			sourceTree = "<group>";
+		};
+		A12689A52B11E0690050E4EF /* AppFiles */ = {
+			isa = PBXGroup;
+			children = (
+				A126899C2B11DFBE0050E4EF /* LaunchScreen.storyboard */,
+				A126899A2B11DFBE0050E4EF /* Assets.xcassets */,
+				A12689912B11DFBD0050E4EF /* AppDelegate.swift */,
+				A12689932B11DFBD0050E4EF /* SceneDelegate.swift */,
+			);
+			path = AppFiles;
+			sourceTree = "<group>";
+		};
+		A12689A82B11E12A0050E4EF /* CollapsibleStack */ = {
+			isa = PBXGroup;
+			children = (
+				A12689AA2B11E17F0050E4EF /* Protocol */,
+				A12689A92B11E14E0050E4EF /* ViewController */,
+			);
+			path = CollapsibleStack;
+			sourceTree = "<group>";
+		};
+		A12689A92B11E14E0050E4EF /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A12689AD2B11E1B00050E4EF /* CollapsibleStackRootViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		A12689AA2B11E17F0050E4EF /* Protocol */ = {
+			isa = PBXGroup;
+			children = (
+				A12689AB2B11E1940050E4EF /* CollapsibleStackRootViewProtocol.swift */,
+				A12689AF2B11E5570050E4EF /* CollapsibleViewControllerProtocol.swift */,
+			);
+			path = Protocol;
+			sourceTree = "<group>";
+		};
+		A12689B12B11EEDA0050E4EF /* AmountSelection */ = {
+			isa = PBXGroup;
+			children = (
+				A12689B22B11EEEE0050E4EF /* AmountSelectionViewController.swift */,
+				A12689B32B11EEEE0050E4EF /* AmountSelectionViewController.xib */,
+			);
+			path = AmountSelection;
+			sourceTree = "<group>";
+		};
+		A12689B62B1211D10050E4EF /* SupportingResources */ = {
+			isa = PBXGroup;
+			children = (
+				A12689B72B1211F40050E4EF /* TopRoundedCornerView.swift */,
+				A12689C02B12381F0050E4EF /* UIViewController+Extension.swift */,
+				A12689B92B1216CE0050E4EF /* UIView+Extension.swift */,
+				A12689C22B12F8B40050E4EF /* CustomErrors.swift */,
+			);
+			path = SupportingResources;
+			sourceTree = "<group>";
+		};
+		A12689BB2B1232980050E4EF /* CollapsibleStackUserInput */ = {
+			isa = PBXGroup;
+			children = (
+				A12689BC2B1232DE0050E4EF /* CollapsibleStackUserInputViewController.swift */,
+				A12689BD2B1232DE0050E4EF /* CollapsibleStackUserInputViewController.xib */,
+			);
+			path = CollapsibleStackUserInput;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +208,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A12689B52B11EEEE0050E4EF /* AmountSelectionViewController.xib in Resources */,
 				A126899E2B11DFBE0050E4EF /* LaunchScreen.storyboard in Resources */,
+				A12689BF2B1232DE0050E4EF /* CollapsibleStackUserInputViewController.xib in Resources */,
 				A126899B2B11DFBE0050E4EF /* Assets.xcassets in Resources */,
-				A12689992B11DFBD0050E4EF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +222,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A12689962B11DFBD0050E4EF /* ViewController.swift in Sources */,
+				A12689AC2B11E1940050E4EF /* CollapsibleStackRootViewProtocol.swift in Sources */,
+				A12689B82B1211F40050E4EF /* TopRoundedCornerView.swift in Sources */,
+				A12689BA2B1216CE0050E4EF /* UIView+Extension.swift in Sources */,
+				A12689BE2B1232DE0050E4EF /* CollapsibleStackUserInputViewController.swift in Sources */,
+				A12689B42B11EEEE0050E4EF /* AmountSelectionViewController.swift in Sources */,
 				A12689922B11DFBD0050E4EF /* AppDelegate.swift in Sources */,
+				A12689AE2B11E1B00050E4EF /* CollapsibleStackRootViewController.swift in Sources */,
 				A12689942B11DFBD0050E4EF /* SceneDelegate.swift in Sources */,
+				A12689C12B12381F0050E4EF /* UIViewController+Extension.swift in Sources */,
+				A12689C32B12F8B40050E4EF /* CustomErrors.swift in Sources */,
+				A12689B02B11E5570050E4EF /* CollapsibleViewControllerProtocol.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		A12689972B11DFBD0050E4EF /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				A12689982B11DFBD0050E4EF /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		A126899C2B11DFBE0050E4EF /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -297,7 +381,6 @@
 				INFOPLIST_FILE = "Cred Task/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -325,7 +408,6 @@
 				INFOPLIST_FILE = "Cred Task/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
